@@ -14,7 +14,7 @@ pip install 'scikit-learn>=0.20.2'
 pip install 'feather-format>=0.4.0 '
 pip install 'gensim>=3.1.0'
 pip install 'lightgbm>=2.2.2'
-pip install category_encoders
+pip install 'category-encoders>=2.0.0'
 
 
 mkdir output tmp feat model

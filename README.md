@@ -11,6 +11,7 @@ Our solution consists of the following components.
 
 
 ## Environment
+```
 CentOS release 6.6 (Final)
 python==3.6.6
 numpy==1.15.4 
@@ -20,6 +21,8 @@ pandas==0.24.1
 feather-format==0.4.0 
 gensim==3.1.0
 lightgbm==2.2.2
+category-encoders==2.0.0
+```
 
 
 ## Project Structure
